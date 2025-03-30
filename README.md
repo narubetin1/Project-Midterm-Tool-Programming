@@ -14,7 +14,6 @@
 1)	https://data.bangkok.go.th/dataset
 2)	https://datagov.mot.go.th/dataset
 
-# Part 1 การวิเคราะห์แนวโน้มภาพรวมของการโดยสารด้วยขนส่งสาธารณะ
 # Graph 1: จำนวนผู้ใช้งานการเดินทางช่องทางต่างๆ ในประเทศไทย (2020-2024)
 ![travel_mode_quantity (1)](https://github.com/user-attachments/assets/cb8003f8-6d8e-4c95-9fa1-7f83c809cd23)
 
